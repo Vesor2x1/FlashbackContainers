@@ -75,3 +75,13 @@
 
 ### Notes
 - Replays recorded with 0.4.0 open fine in older versions, without the trades.
+
+
+## 0.4.1 — Minecraft 26.3 port (unverified)
+
+### Changed
+- Updated build configuration and mod metadata for Minecraft 26.3.
+- Updated Fabric Loom, Gradle wrapper, Fabric Loader, Fabric API and Flashback compile dependency.
+
+### Notes
+- This source port has not yet been compiled or tested in-game.
